@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/richest-customer-wealth.py
+	python3 leetcode/easy/number-of-employees-who-met-the-target.py
