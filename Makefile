@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/kids-with-the-greatest-number-of-candies.py
+	python3 leetcode/easy/count-pairs-whose-sum-is-less-than-target.py
