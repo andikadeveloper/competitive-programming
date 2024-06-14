@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/count-pairs-whose-sum-is-less-than-target.py
+	python3 leetcode/easy/how-many-numbers-are-smaller-than-the-current-number.py
