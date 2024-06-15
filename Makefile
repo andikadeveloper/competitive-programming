@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/how-many-numbers-are-smaller-than-the-current-number.py
+	python3 leetcode/easy/running-sum-of-1d-array.py
