@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/running-sum-of-1d-array.py
+	python3 leetcode/easy/sum-of-values-at-indices-with-k-set-bits.py
