@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/sum-of-values-at-indices-with-k-set-bits.py
+	python3 leetcode/easy/maximum-number-of-words-found-in-sentences.py
