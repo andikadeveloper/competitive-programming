@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/left-and-right-sum-differences.py
+	python3 leetcode/easy/create-target-array-in-the-given-order.py
