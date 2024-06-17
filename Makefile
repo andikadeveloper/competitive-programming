@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/create-target-array-in-the-given-order.py
+	python3 leetcode/easy/number-of-laser-beams-in-a-bank.py
