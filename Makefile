@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/check-if-two-string-arrays-are-equivalent.py
+	python3 leetcode/easy/minimum-amount-of-time-to-collect-garbage.py
