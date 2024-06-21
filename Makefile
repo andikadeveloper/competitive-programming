@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/minimum-amount-of-time-to-collect-garbage.py
+	python3 leetcode/easy/sort-the-students-by-their-kth-score.py
