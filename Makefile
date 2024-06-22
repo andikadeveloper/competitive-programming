@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/medium/partition-array-according-to-given-pivot.py
+	python3 leetcode/easy/shuffle-string.py
