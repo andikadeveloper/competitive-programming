@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/shuffle-string.py
+	python3 leetcode/medium/maximum-number-of-coins-you-can-get.py
