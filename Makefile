@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/count-items-matching-a-rule.py
+	python3 leetcode/medium/partition-array-according-to-given-pivot.py
