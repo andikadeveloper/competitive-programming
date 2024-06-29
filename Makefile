@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/medium/rearrange-array-elements-by-sign.py
+	python3 leetcode/easy/minimum-average-of-smallest-and-largest-elements.py
