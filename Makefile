@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/difference-between-element-sum-and-digit-sum-of-an-array.py
+	python3 leetcode/medium/queries-on-a-permutation-with-key.py
