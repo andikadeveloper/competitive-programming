@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/medium/queries-on-a-permutation-with-key.py
+	python3 leetcode/easy/number-of-arithmetic-triplets.py
