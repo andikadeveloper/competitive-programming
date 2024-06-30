@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/find-the-highest-altitude.py
+	python3 leetcode/easy/find-common-elements-between-two-arrays.py
