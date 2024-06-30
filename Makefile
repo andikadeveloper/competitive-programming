@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/find-common-elements-between-two-arrays.py
+	python3 leetcode/easy/sum-of-all-odd-length-subarrays.py
