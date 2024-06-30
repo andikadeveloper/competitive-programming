@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/count-the-number-of-consistent-strings.py
+	python3 leetcode/easy/find-the-highest-altitude.py
