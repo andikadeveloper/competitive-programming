@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/sum-of-all-odd-length-subarrays.py
+	python3 leetcode/easy/matrix-diagonal-sum.py
