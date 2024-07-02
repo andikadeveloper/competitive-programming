@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/matrix-diagonal-sum.py
+	python3 leetcode/easy/check-if-a-string-is-an-acronym-of-words.py
