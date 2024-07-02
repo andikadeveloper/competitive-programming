@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/unique-morse-code-words.py
+	python3 leetcode/medium/sort-the-matrix-diagonally.py
