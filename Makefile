@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/medium/sort-the-matrix-diagonally.py
+	python3 leetcode/easy/maximum-product-difference-between-two-pairs.py
