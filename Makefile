@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/maximum-product-of-two-elements-in-an-array.py
+	python3 leetcode/easy/subarrays-distinct-element-sum-of-squares-i.py
