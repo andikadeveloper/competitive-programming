@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/subarrays-distinct-element-sum-of-squares-i.py
+	python3 leetcode/easy/minimum-time-visiting-all-points.py
