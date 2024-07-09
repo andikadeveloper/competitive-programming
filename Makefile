@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/flipping-an-image.py
+	python3 leetcode/easy/maximum-sum-with-exactly-k-elements.py
