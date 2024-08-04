@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/maximum-sum-with-exactly-k-elements.py
+	python3 leetcode/easy/sort-the-people.py
