@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/find-the-integer-added-to-array-i.py
+	python3 leetcode/easy/find-maximum-number-of-string-pairs.py
