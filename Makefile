@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/find-maximum-number-of-string-pairs.py
+	python3 leetcode/easy/snake-in-matrix.py
