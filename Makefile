@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/snake-in-matrix.py
+	python3 leetcode/medium/minimize-maximum-pair-sum-in-array.py
