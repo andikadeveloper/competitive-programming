@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/medium/minimize-maximum-pair-sum-in-array.py
+	python3 leetcode/medium/find-the-prefix-common-array-of-two-arrays.py
