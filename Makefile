@@ -1,2 +1,2 @@
 run:
-	python3 leetcode/easy/count-good-triplets.py
+	python3 leetcode/easy/final-array-state-after-k-multiplication-operations-i.py
